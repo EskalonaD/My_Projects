@@ -12,6 +12,7 @@
 
 <details>
   <summary>Under development projects (amount is not set yet)</summary>
+  
   [Guessing-game-for-mentoring](https://github.com/EskalonaD/Guessing-game-for-mentoring)
 </details>
 
