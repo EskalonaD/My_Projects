@@ -1,31 +1,33 @@
 # My_Projects
 
 <details>
-  <summary>Complete projects</summary>
+  <summary>Complete projects (amount is not set yet)</summary>
   
 </details>
 
 <details>
-  <summary>Sufficiently complete projects</summary>
+  <summary>Sufficiently complete projects (amount is not set yet)</summary>
   
 </details>
 
 <details>
-  <summary>Under development projects</summary>
+  <summary>Under development projects (amount is not set yet)</summary>
+  [Guessing-game-for-mentoring](https://github.com/EskalonaD/Guessing-game-for-mentoring)
+</details>
+
+<details>
+  <summary>Delayed projects (amount is not set yet)</summary>
   
 </details>
 
 <details>
-  <summary>Delayed projects</summary>
+  <summary>Planned projects (amount is not set yet)</summary>
   
 </details>
 
 <details>
-  <summary>Planned projects</summary>
+  <summary>Dropped projects (amount is not set yet)</summary>
   
 </details>
 
-<details>
-  <summary>Dropped projects</summary>
-  
-</details>
+Updated in 04.2020
