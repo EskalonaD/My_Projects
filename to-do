@@ -1,6 +1,6 @@
 set all projects to readme
 
-sort projects (complete  => sufficiently complete (reason) => under development => delayed => in plan => dropped (reason))
+sort projects (complete (year) => sufficiently complete (year,reason) => under development => delayed(reason) => in plan => dropped (year, reason))
 
 learn how to properly format readme
 
