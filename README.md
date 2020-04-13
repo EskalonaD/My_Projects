@@ -3,9 +3,15 @@
 <details>
     <summary>Complete projects (amount is not set yet)</summary>
 
+* [angular-tour-of-heroes](https://github.com/EskalonaD/angular-tour-of-heroes)
+  * Year: 2019;
+  * Technologies: Angular
+  * Small Ovewrview:
+
 * [Tribute-Page](https://github.com/EskalonaD/Tribute-Page)
   * Year: 2019;
   * Technologies: Fluid Layout, HTML, CSS.
+  * Small Overview:
 
 
 </details>
