@@ -1,7 +1,3 @@
 set all projects to readme
 
 sort projects (complete (year) => sufficiently complete (year,reason) => under development (technologies) => delayed(reason) => in plan => dropped (year, reason))
-
-learn how to properly format readme
-
-create nice readme mark-up
