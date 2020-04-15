@@ -1,3 +1,7 @@
 set all projects to readme
 
 sort projects (complete (year) => sufficiently complete (year,reason) => under development (technologies) => delayed(reason) => in plan => dropped (year, reason))
+
+
+inPlan => chrome extention (youtube), vscode extentions (todo comments, style formatters)
+sufficiently complete => lab homeworks
