@@ -19,12 +19,19 @@
 <details>
     <summary>Sufficiently complete projects (amount is not set yet)</summary>
 
+* [Adaptive Markup](https://github.com/EskalonaD/homework-markup);
+    * Year: 2019;
+    * Technologies: ;
+    * Overview: ;
+    * Reason: ;
+
 * [Landing Markup](https://github.com/EskalonaD/first-psd-into-html-file);
   * Year: 2019;
   * Technologies: HTML, CSS;
   * Overview: first github projects. I completed 320px view, but because of wrong decisions while thinking
   of architecture and use float markup at the start it would cost me maybe more time to complete it than
   make it from the scratch. I learn a lot from this project.
+  * Reason
 </details>
 
 <details>
