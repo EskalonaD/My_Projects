@@ -48,6 +48,10 @@
 <details>
   <summary>Dropped projects (amount is not set yet)</summary>
 
+* [SurveyForm](https://github.com/EskalonaD/SurveyForm)
+ * Year: 2019;
+ * Overview:
+ * Reason:
 </details>
 
 <div align="right">Updated in 04.2020</div>

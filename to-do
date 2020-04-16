@@ -3,5 +3,5 @@ set all projects to readme
 sort projects (complete (year) => sufficiently complete (year,reason) => under development (technologies) => delayed(reason) => in plan => dropped (year, reason))
 
 
-inPlan => chrome extention (youtube), vscode extentions (todo comments, style formatters)
+inPlan => chrome extention (youtube), vscode extentions (todo comments, style formatters), form-app (mb collaps/accordions/wizards), pwa
 sufficiently complete => lab homeworks
