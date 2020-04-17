@@ -8,6 +8,11 @@
   * Technologies: Angular2;
   * Ovewrview: tutorial app from [angular.io](https://angular.io);
 
+* [RandomQuoteMachine](https://github.com/EskalonaD/RandomQuoteMachine)
+    * Year: 2019;
+    * Technologies: Javascript, HTML;
+    * Overview:
+
 * [Tribute-Page](https://github.com/EskalonaD/Tribute-Page)
   * Year: 2019;
   * Technologies: Fluid Layout, HTML, CSS;
