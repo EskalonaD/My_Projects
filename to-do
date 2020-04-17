@@ -3,13 +3,5 @@ set all projects to readme
 sort projects (complete (year) => sufficiently complete (year,reason) => under development (technologies) => delayed(reason) => in plan => dropped (year, reason))
 
 
-inPlan => chrome extention (youtube), vscode plugin (todo comments, style formatters, jsdoc comments), form-app (mb collaps/accordions/wizards), table-app (diff mods of ngfor) pwa, ng animation, component-library;
+inPlan => chrome extention (youtube, linkedin, ),web-searcher, vscode plugin (todo comments, style formatters, jsdoc comments), form-app (mb collaps/accordions/wizards), table-app (diff mods of ngfor) pwa, ng animation, component-library, WEB-CV, WEB-PARSER;
 sufficiently complete => lab homeworks
-
-list of repo:
-https://github.com/EskalonaD/ticket-sales-company-website
-https://github.com/EskalonaD/angular-tour-of-heroes
-https://github.com/EskalonaD/utils
-https://github.com/EskalonaD/Angular_training_playground
-https://github.com/EskalonaD/WhatToDo
-https://github.com/EskalonaD/knowledge-assessment-system

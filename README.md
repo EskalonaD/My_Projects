@@ -1,7 +1,7 @@
 # My_Projects
 
 <details>
-    <summary>Complete projects (amount is not set yet)</summary>
+    <summary>Complete projects (3)</summary>
 
 * [angular-tour-of-heroes](https://github.com/EskalonaD/angular-tour-of-heroes)
   * Year: 2019;
@@ -22,7 +22,19 @@
 </details>
 
 <details>
-    <summary>Sufficiently complete projects (amount is not set yet)</summary>
+    <summary>Sufficiently complete projects (4)</summary>
+
+* [ticket-sales-company website](https://github.com/EskalonaD/ticket-sales-company-website);
+    * Year: 2019;
+    * Technologies: Work in group (4 people), Angular2, Typescript, HTML, CSS;
+    * Overview: ;
+    * Reason: ;
+
+* [Knowledge Assessment System](https://github.com/EskalonaD/knowledge-assessment-system);
+    * Year: 2019;
+    * Technologies: ReactJS, Redux, Reselect, Webpack, SCSS, HTML;
+    * Overview: ;
+    * Reason: ;
 
 * [Adaptive Markup](https://github.com/EskalonaD/homework-markup);
     * Year: 2019;
@@ -40,7 +52,7 @@
 </details>
 
 <details>
-    <summary>Under development projects (amount is not set yet)</summary>
+    <summary>Under development projects (1)</summary>
 
 * [Guessing-game-for-mentoring](https://github.com/EskalonaD/Guessing-game-for-mentoring)
  * Technologies:
@@ -48,17 +60,22 @@
 </details>
 
 <details>
-  <summary>Delayed projects (amount is not set yet)</summary>
+  <summary>Delayed projects (0)</summary>
 
 </details>
 
 <details>
-  <summary>Planned projects (amount is not set yet)</summary>
+  <summary>Planned projects (2)</summary>
 
+* [Angular training playground](https://github.com/EskalonaD/Angular_training_playground)
+ * Overview:
+
+* [WhatToDo](https://github.com/EskalonaD/WhatToDo)
+ * Overview:
 </details>
 
 <details>
-  <summary>Dropped projects (amount is not set yet)</summary>
+  <summary>Dropped projects (1)</summary>
 
 * [SurveyForm](https://github.com/EskalonaD/SurveyForm)
  * Year: 2019;
