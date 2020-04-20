@@ -55,8 +55,8 @@
     <summary>Under development projects (1)</summary>
 
 * [Guessing-game-for-mentoring](https://github.com/EskalonaD/Guessing-game-for-mentoring);
- * Technologies:
- * Overview:
+ * Technologies: ;
+ * Overview: ;
 </details>
 
 <details>
@@ -68,10 +68,10 @@
   <summary>Planned projects (2)</summary>
 
 * [Angular training playground](https://github.com/EskalonaD/Angular_training_playground);
- * Overview:;
+ * Overview: ;
 
 * [WhatToDo](https://github.com/EskalonaD/WhatToDo);
- * Overview:;
+ * Overview: ;
 </details>
 
 <details>
@@ -79,8 +79,8 @@
 
 * [SurveyForm](https://github.com/EskalonaD/SurveyForm);
  * Year: 2019;
- * Overview:
- * Reason:
+ * Overview: ;
+ * Reason: ;
 </details>
 
 <div align="right">Updated in 04.2020</div>
