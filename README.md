@@ -3,17 +3,17 @@
 <details>
     <summary>Complete projects (3)</summary>
 
-* [angular-tour-of-heroes](https://github.com/EskalonaD/angular-tour-of-heroes)
+* [angular-tour-of-heroes](https://github.com/EskalonaD/angular-tour-of-heroes);
   * Year: 2019;
   * Technologies: Angular2;
   * Ovewrview: tutorial app from [angular.io](https://angular.io);
 
-* [RandomQuoteMachine](https://github.com/EskalonaD/RandomQuoteMachine)
+* [RandomQuoteMachine](https://github.com/EskalonaD/RandomQuoteMachine);
     * Year: 2019;
     * Technologies: Javascript, HTML;
     * Overview:
 
-* [Tribute-Page](https://github.com/EskalonaD/Tribute-Page)
+* [Tribute-Page](https://github.com/EskalonaD/Tribute-Page);
   * Year: 2019;
   * Technologies: Fluid Layout, HTML, CSS;
   * Overview: simple markup test from [freecodecamp](https://freecodecamp.org);
@@ -54,7 +54,7 @@
 <details>
     <summary>Under development projects (1)</summary>
 
-* [Guessing-game-for-mentoring](https://github.com/EskalonaD/Guessing-game-for-mentoring)
+* [Guessing-game-for-mentoring](https://github.com/EskalonaD/Guessing-game-for-mentoring);
  * Technologies:
  * Overview:
 </details>
@@ -67,17 +67,17 @@
 <details>
   <summary>Planned projects (2)</summary>
 
-* [Angular training playground](https://github.com/EskalonaD/Angular_training_playground)
- * Overview:
+* [Angular training playground](https://github.com/EskalonaD/Angular_training_playground);
+ * Overview:;
 
-* [WhatToDo](https://github.com/EskalonaD/WhatToDo)
- * Overview:
+* [WhatToDo](https://github.com/EskalonaD/WhatToDo);
+ * Overview:;
 </details>
 
 <details>
   <summary>Dropped projects (1)</summary>
 
-* [SurveyForm](https://github.com/EskalonaD/SurveyForm)
+* [SurveyForm](https://github.com/EskalonaD/SurveyForm);
  * Year: 2019;
  * Overview:
  * Reason:

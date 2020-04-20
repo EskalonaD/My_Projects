@@ -3,5 +3,7 @@ set all projects to readme
 sort projects (complete (year) => sufficiently complete (year,reason) => under development (technologies) => delayed(reason) => in plan => dropped (year, reason))
 
 
-inPlan => chrome extention (youtube, linkedin, ),web-searcher, vscode plugin (todo comments, style formatters, jsdoc comments), form-app (mb collaps/accordions/wizards), table-app (diff mods of ngfor) pwa, ng animation, component-library, WEB-CV, WEB-PARSER;
+inPlan => chrome extention (youtube, linkedin, ),web-searcher, vscode plugin (todo comments, style formatters, jsdoc comments), form-app (mb collaps/accordions/wizards), table-app (diff mods of ngfor) pwa, ng animation, component-library(list-component), WEB-CV, WEB-PARSER;
 sufficiently complete => lab homeworks
+
+remove plan section to utils
