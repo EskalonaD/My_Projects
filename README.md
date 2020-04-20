@@ -11,7 +11,7 @@
 * [RandomQuoteMachine](https://github.com/EskalonaD/RandomQuoteMachine);
     * Year: 2019;
     * Technologies: Javascript, HTML;
-    * Overview:
+    * Overview: simple application that get random quote on buttom click and can post it to twitter;
 
 * [Tribute-Page](https://github.com/EskalonaD/Tribute-Page);
   * Year: 2019;
@@ -38,7 +38,7 @@
 
 * [Adaptive Markup](https://github.com/EskalonaD/homework-markup);
     * Year: 2019;
-    * Technologies: ;
+    * Technologies: Adaptive Layout, HTML, CSS;
     * Overview: ;
     * Reason: ;
 
@@ -55,7 +55,7 @@
     <summary>Under development projects (1)</summary>
 
 * [Guessing-game-for-mentoring](https://github.com/EskalonaD/Guessing-game-for-mentoring);
-  * Technologies: ;
+  * Technologies: Angular2;
   * Overview: ;
 </details>
 
@@ -79,8 +79,8 @@
 
 * [SurveyForm](https://github.com/EskalonaD/SurveyForm);
   * Year: 2019;
-  * Overview: ;
-  * Reason: ;
+  * Overview: simple form mark-up;
+  * Reason: I dropped project because of the lack of time, after I could resume - it became too challengless to continue;
 </details>
 
 <div align="right">Updated in 04.2020</div>
