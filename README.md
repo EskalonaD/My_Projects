@@ -5,20 +5,18 @@
 
 * [angular-tour-of-heroes](https://github.com/EskalonaD/angular-tour-of-heroes);
   * Year: 2019;
-  * Technologies: Angular2;
   * Ovewrview: tutorial app from [angular.io](https://angular.io).
+  * Technologies: Angular2;
 
 * [RandomQuoteMachine](https://github.com/EskalonaD/RandomQuoteMachine);
     * Year: 2019;
-    * Technologies: Javascript, HTML;
     * Overview: simple application that get random quote on buttom click and can post it to twitter.
+    * Technologies: Javascript, HTML;
 
 * [Tribute-Page](https://github.com/EskalonaD/Tribute-Page);
   * Year: 2019;
-  * Technologies: Fluid Layout, HTML, CSS;
   * Overview: simple markup test from [freecodecamp](https://freecodecamp.org).
-
-
+  * Technologies: Fluid Layout, HTML, CSS;
 </details>
 
 <details>
@@ -26,44 +24,45 @@
 
 * [ticket-sales-company website](https://github.com/EskalonaD/ticket-sales-company-website);
     * Year: 2019;
-    * Technologies: Work in group (4 people), Angular2, Typescript, HTML, CSS;
     * Overview: ;
+    * Technologies: Work in group (4 people), Single Page Application, Angular2, Typescript, HTML, CSS;
     * Reason: .
 
 * [Knowledge Assessment System](https://github.com/EskalonaD/knowledge-assessment-system);
     * Year: 2019;
-    * Technologies: ReactJS, Redux, Reselect, Webpack, SCSS, HTML;
     * Overview: ;
+    * Technologies: Single Page Aplication, ReactJS, Redux, Reselect, Webpack, SCSS, HTML;
     * Reason: .
 
 * [Adaptive Markup](https://github.com/EskalonaD/homework-markup);
     * Year: 2019;
-    * Technologies: Adaptive Layout, HTML, CSS;
     * Overview: ;
+    * Technologies: Adaptive Layout, HTML, CSS;
     * Reason: .
 
 * [Landing Markup](https://github.com/EskalonaD/first-psd-into-html-file);
   * Year: 2019;
-  * Technologies: HTML, CSS;
   * Overview: murk-up for mobile landing page;
-  * Reason: first github projects. I completed 320px view, but because of wrong decisions while thinking
+  * Technologies: HTML, CSS;
+  * Reason: 320px view is completed. Because of wrong decisions while thinking
   of architecture and use float markup at the start it would cost me maybe more time to complete it than
-  make it from the scratch. I learn a lot from this project.
+  make it from the scratch. However I learned a lot from this project.
 </details>
 
 <details>
     <summary>Under development projects (1)</summary>
 
 * [Guessing-game-for-mentoring](https://github.com/EskalonaD/Guessing-game-for-mentoring);
-  * Technologies: Angular2, GitHub pages;
   * Overview: .
+  * Technologies: Angular2, RxJs, GitHub pages deployment;
 </details>
 
 <details>
   <summary>Delayed projects (1)</summary>
 
 * [WhatToDo](https://github.com/EskalonaD/WhatToDo);
-  * Overview: ;
+  * Overview: Complex To-do project for multiple users, that collect different time marked tasks and automatically create a list of tasks for particular day;
+  * Technologies: Single Page Application, Angular2;
   * Reason: I had to delay it in favor of application for my student.
 </details>
 
@@ -71,7 +70,7 @@
   <summary>Planned projects (1)</summary>
 
 * [Angular training playground](https://github.com/EskalonaD/Angular_training_playground);
-  * Overview: ;
+  * Overview: Sets of component/mini-applications created to learn/save concepts of Angular.
 
 </details>
 
