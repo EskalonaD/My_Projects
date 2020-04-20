@@ -24,7 +24,7 @@
 
 * [ticket-sales-company website](https://github.com/EskalonaD/ticket-sales-company-website);
     * Year: 2019;
-    * Overview: ;
+    * Overview: Single-page website for travel company;
     * Technologies: Work in group (4 people), Single Page Application, Angular2, Typescript, HTML, CSS;
     * Reason: .
 
@@ -36,7 +36,7 @@
 
 * [Adaptive Markup](https://github.com/EskalonaD/homework-markup);
     * Year: 2019;
-    * Overview: ;
+    * Overview: markup for start page of book-selling website;
     * Technologies: Adaptive Layout, HTML, CSS;
     * Reason: .
 
@@ -61,7 +61,7 @@
   <summary>Delayed projects (1)</summary>
 
 * [WhatToDo](https://github.com/EskalonaD/WhatToDo);
-  * Overview: Complex To-do project for multiple users, that collect different time marked tasks and automatically create a list of tasks for particular day;
+  * Overview: Task-management project for multiple users, that collect different time marked tasks and automatically create a list of tasks for particular day;
   * Technologies: Single Page Application, Angular2;
   * Reason: I had to delay it in favor of application for my student.
 </details>
