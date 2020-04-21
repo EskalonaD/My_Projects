@@ -53,8 +53,8 @@
     <summary>Under development projects (1)</summary>
 
 * [Guessing-game-for-mentoring](https://github.com/EskalonaD/Guessing-game-for-mentoring);
-  * Overview: .
-  * Technologies: Angular2, RxJs, GitHub pages deployment;
+  * Overview: Education project. Simulation of users conversation. One user apuzzle number, second try to guess it. Student learn how to create application from scratch to end while copying this application.
+  * Technologies: Angular2, RxJs, GitHub pages deployment.
 </details>
 
 <details>
