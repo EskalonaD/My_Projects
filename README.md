@@ -24,13 +24,13 @@
 
 * [ticket-sales-company website](https://github.com/EskalonaD/ticket-sales-company-website);
     * Year: 2019;
-    * Overview: Single-page website for travel company;
+    * Overview: Single-page site for travel company;
     * Technologies: Work in group (4 people), Single Page Application, Angular2, Typescript, HTML, CSS;
     * Reason: .
 
 * [Knowledge Assessment System](https://github.com/EskalonaD/knowledge-assessment-system);
     * Year: 2019;
-    * Overview: ;
+    * Overview: Single-page site used to store tests, allow users pass it and store the results;
     * Technologies: Single Page Aplication, ReactJS, Redux, Reselect, Webpack, SCSS, HTML;
     * Reason: .
 
@@ -42,11 +42,10 @@
 
 * [Landing Markup](https://github.com/EskalonaD/first-psd-into-html-file);
   * Year: 2019;
-  * Overview: murk-up for mobile landing page;
+  * Overview: mark-up for mobile landing page;
   * Technologies: HTML, CSS;
   * Reason: 320px view is completed. Because of wrong decisions while thinking
-  of architecture and use float markup at the start it would cost me maybe more time to complete it than
-  make it from the scratch. However I learned a lot from this project.
+  of architecture and use float markup at the start it would cost me maybe more time to complete it than make it from the scratch. However I learned a lot from this project.
 </details>
 
 <details>

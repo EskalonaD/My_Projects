@@ -4,7 +4,7 @@ sort projects (complete (year) => sufficiently complete (year,reason) => under d
 
 
 inPlan => chrome extention (youtube, linkedin, ),web-searcher, vscode plugin (todo comments, style formatters, jsdoc comments), form-app (mb collaps/accordions/wizards), table-app (diff mods of ngfor) pwa, ng animation, component-library(list-component), WEB-CV, WEB-PARSER, interceptors/middleware; partial customization for users; admin account;
-blobs
+blobs, ssr, spa-seo-solutoins, template-parser-pather-vscode-extension
 
 sufficiently complete => lab homeworks
 
