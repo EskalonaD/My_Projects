@@ -57,12 +57,17 @@
 </details>
 
 <details>
-  <summary>Delayed projects (1)</summary>
+  <summary>Delayed projects (2)</summary>
 
 * [WhatToDo](https://github.com/EskalonaD/WhatToDo);
   * Overview: Task-management project for multiple users, that collect different time marked tasks and automatically create a list of tasks for particular day;
   * Technologies: Single Page Application, Angular2;
   * Reason: I had to delay it in favor of application for my student.
+
+* [backend for WhatToDo](https://github.com/EskalonaD/WTD-backend);
+  * Overview: ;
+  * Technologies: ;
+  * Reason: ;
 </details>
 
 <details>
